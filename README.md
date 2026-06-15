@@ -159,6 +159,10 @@ FUSION AUFGRUND AKZEPTANZ
 Kalte Fusion umgangssprachlich 😉
 
 
+---
+### Übersicht meiner Abhandlungen:
+* [Gesetz der Volumetrischen Energie](Gesetz_der_Volumetrischen_Energie.md)
+* [Manifest Anomalie X: Wer ist Mike?](Ontologisches_Manifest_Anomalie_X_WAS_WER_IST_MIKE.md)
 
 
 
